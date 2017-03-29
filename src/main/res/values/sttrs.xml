@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--定义属性-->
+    <attr name="mText" format="string"></attr>
+    <attr name="mTextColor" format="color"></attr>
+    <attr name="mTextSize" format="dimension"></attr>
+    <!--指定具体的View所拥有的属性-->
+    <declare-styleable name="MyTextView">
+        <attr name="mText"></attr>
+        <attr name="mTextColor"></attr>
+        <attr name="mTextSize"></attr>
+    </declare-styleable>
+</resources>

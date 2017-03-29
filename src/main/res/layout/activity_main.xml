@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    xmlns:shaodf="http://schemas.android.com/apk/res-auto"
+  >
+    <com.example.customviewdemo.customview.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+      shaodf:mText="测试文本啊哈哈哈哈哈哈哈哈哈哈啊哈哈哈哈大街上来看建档立卡简单快乐数据库第六届奥斯卡拉家带口老实交代啦"
+        shaodf:mTextSize="15sp"
+        shaodf:mTextColor="#2a2a58"
+        android:padding="20dp"
+        android:background="#ff0000"
+        >
+    </com.example.customviewdemo.customview.MyTextView>
+</LinearLayout>
