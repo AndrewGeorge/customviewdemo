@@ -6,7 +6,7 @@
     <com.example.customviewdemo.customview.MyTextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-      shaodf:mText="测试文本啊哈哈哈哈哈哈哈哈哈哈啊哈哈哈哈大街上来看建档立卡简单快乐数据库第六届奥斯卡拉家带口老实交代啦"
+      shaodf:mText="测试文本啊哈哈哈哈哈哈哈,哈哈哈啊哈哈哈哈大街上来看建档,laaldlsakdl,立卡简单快乐数据库第六届奥斯卡拉家带口老实交代啦"
         shaodf:mTextSize="15sp"
         shaodf:mTextColor="#2a2a58"
         android:padding="20dp"
